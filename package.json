@@ -6,6 +6,8 @@
 	"engines": {
 		"vscode": "^1.65.0"
 	},
+	"publisher": "kuanting",
+	"repository": "https://github.com/kusakawazeusu/dynamic-import",
 	"categories": [
 		"Other"
 	],
